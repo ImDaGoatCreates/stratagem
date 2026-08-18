@@ -1,5 +1,5 @@
 # How to run
-### Make sure you have Python 3.11 or higher installed on your device (you can get it from official Python website or the Microsoft Store).
+### Make sure you have Python 3.13 or higher installed on your device (you can get it from official Python website or the Microsoft Store).
 
 1. Open the green button labeled "Code" at the top right of this web page.
 2. Click "Download ZIP" from the menu that appears.
